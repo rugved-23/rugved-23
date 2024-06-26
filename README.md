@@ -1,7 +1,7 @@
-- 👋 Hi, Rugved this side 😊
+-👋 Hi, Rugved this side 😊
 - I'm a passionate learner 
-- Keen in improving my skills in progmming
--  And egar to develop my knowledge in program solving domain and Development 
+- Always keen in improving my skills in progamming        
+- And egar to increase my knowledge in program solving domain and Development
 
 
 <!---
