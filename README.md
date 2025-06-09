@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rugved Salpekar</h1>
+<h1 align="center">Hi 👋, I'm Rugved Salpekar,
+Computer Science Undergrad</h1>
 <h3 align="center">I'm a passionate learner
   Always keen in improving my skills in progamming 
   And egar to increase my knowledge in program solving domain and Development</h3>
