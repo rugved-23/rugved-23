@@ -93,8 +93,6 @@ I'm a passionate learner who is keen on improving my skills in programming and e
 - 🌱 I'm currently learning **Advanced AI/ML concepts and Cloud Architecture**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Python, Django, or AI**
-- ⚡ Fun fact: **I believe in continuous learning and turning coffee into code!**
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rugved-23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rugved-23?label=Followers&style=social" alt="GitHub Followers" />
