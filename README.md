@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rugved Salpekar </h1
 <h3 align="center">I'm a passionate learner
-  Always keen in improving my skills in progamming 
+  who is keen in improving my skills in progamming 
   And egar to increase my knowledge in program solving domain, Backend Development, Frontend Development and Artificial Intelligence</h3>
 
 <h3 align="left">Connect with me:</h3>
