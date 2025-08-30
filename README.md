@@ -83,8 +83,6 @@ I'm a passionate learner who is keen on improving my skills in programming and e
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rugved-23&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
-## 🏆 GitHub Trophies
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rugved-23&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
@@ -96,14 +94,6 @@ I'm a passionate learner who is keen on improving my skills in programming and e
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Python, Django, or AI**
 - ⚡ Fun fact: **I believe in continuous learning and turning coffee into code!**
-
-## 📈 Coding Activity
-
-## 🎵 Currently Vibing To
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31k6rlzwxkjdrf7azqqdxwj5yl7q)
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rugved-23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
