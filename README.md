@@ -87,13 +87,6 @@ I'm a passionate learner who is keen on improving my skills in programming and e
   <img src="https://github-profile-trophy.vercel.app/?username=rugved-23&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🎯 Current Focus
-
-- 🔭 I'm currently working on **Full Stack Web Applications**
-- 🌱 I'm currently learning **Advanced AI/ML concepts and Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Python, Django, or AI**
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=rugved-23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/rugved-23?label=Followers&style=social" alt="GitHub Followers" />
 </div>
