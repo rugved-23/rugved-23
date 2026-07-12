@@ -89,22 +89,6 @@ I'm a Computer Science undergrad who loves turning ideas into working software. 
 
 ---
 
-## 🧊 3D Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rugved-23/rugved-23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rugved-23/profile-3d-contrib/main/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%"/>
-</div>
-
-> 💡 **Two animations to wire up** (both are free GitHub Actions that run on your own repo, so the graphs reflect your *real* activity):
-> - **Snake** — add [Platane/snk](https://github.com/Platane/snk) to `rugved-23/rugved-23` to get the animated snake eating your contribution graph.
-> - **Isometric 3D graph** — add [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) to auto-generate a rotating, night-rainbow isometric bar chart of your contributions, refreshed daily.
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=rugved-23&label=Profile%20Views&color=2196F3&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
